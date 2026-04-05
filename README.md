@@ -1,3 +1,5 @@
+Задание 1 и 2
+
 1. Knapsack - задача о рюкзаке. Я использовала расстояние Хэмминга между бинарными векторами решений.
 
 https://programforyou.ru/poleznoe/kak-zadat-argumenti-komandnoi-stroki-v-visual-studio?ysclid=mmrwhw2c8u976598069
